@@ -1,0 +1,48 @@
+body {
+  border: 20px solid #528DB1;
+}
+
+.navbar-brand {
+  font-family: adelle-sans, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 1.75em;
+  padding-top: 2.5%;
+  padding-left: 2.5%;
+  padding-bottom: 2.5%;
+}
+
+.navbar-nav {
+  font-family: tenso, sans-serif;
+  font-style: normal;
+  padding-right: 2.5%;
+}
+
+.container {
+  padding-top: 5%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+#headshot {
+  float: left;
+  padding-right: 15px;
+  width: 35%;
+}
+
+h1 {
+  font-family: adelle-sans, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+p {
+  font-family: tenso, sans-serif;
+  font-style: normal;
+}
+
+ul {
+  font-family: tenso, sans-serif;
+  font-style: normal;
+  font-size: 1.25em;
+}
