@@ -22,6 +22,7 @@ body {
   padding-top: 5%;
   padding-left: 10%;
   padding-right: 10%;
+  padding-bottom: 12%;
 }
 
 #headshot {
@@ -33,6 +34,12 @@ body {
 h1 {
   font-family: adelle-sans, sans-serif;
   font-weight: 700;
+  font-style: normal;
+}
+
+h2 {
+  font-family: adelle-sans, sans-serif;
+  font-weight: 600;
   font-style: normal;
 }
 
